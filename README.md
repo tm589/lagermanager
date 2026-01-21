@@ -1,5 +1,5 @@
 # lagermanager
-Einfaches Bestell und Lager Tool
+Einfaches Bestell und Lager Tool (Warenwirtschaftssystem)
 
 #Docker-Web-App
 Installieren Sie Docker

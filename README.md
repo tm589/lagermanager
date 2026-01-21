@@ -10,6 +10,7 @@ http://localhost:3000
 
 Daten werden in einer CSV-Datei gespeichert/verwaltet.
 Funktionen:
+  - Desktop Ansicht und Mobile Ansicht
   - Unterteilung: Offen, Teillieferung, Abgeschlossen
   - Import / Export
   - Bestellungen als Projekt definieren

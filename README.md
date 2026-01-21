@@ -1,4 +1,4 @@
-# lagermanager
+# Lagermanager
 Einfaches Bestell und Lager Tool (Warenwirtschaftssystem)
 
 #Docker-Web-App
